@@ -2,4 +2,18 @@ body{
     background-color: rgb(35, 35, 190);
 color: azure;
     font-family: "Story Script", sans-serif;
-} 
+    margin: 0px;
+}
+
+
+header{
+    font-size: medium;
+    border: double 5px black;
+}
+h1{
+    font-size: 30px
+}
+
+p{
+    font-size: 30px;
+}
